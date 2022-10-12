@@ -1,4 +1,5 @@
 # What Can Transformers Learn In-Context? A Case Study of Simple Function Classes
+[Paper by Garg, Tsipras, Liang, and Valiant](https://arxiv.org/pdf/2208.01066.pdf); Presented by Skyler Grandel
 ## Overview
 ### Context: What is In-Context Learning?
 In-context learning is the paradigm that large language transformer models can use to learn a wide variety of tasks: given a prompt containing examples from a task (input-output pairs) and a new query input, the language model can generate the corresponding output.
